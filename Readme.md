@@ -1,6 +1,6 @@
 # Amanda Cutler
 
-![my headshot](20241217-SMD_3952.jpg)
+![my headshot](Headshot.jpg)
 
 ## Education
 
